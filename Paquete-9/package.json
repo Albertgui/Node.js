@@ -1,0 +1,15 @@
+{
+  "name": "paquete-9",
+  "version": "1.0.0",
+  "description": "Mi segundo paquete de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Albertgui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
