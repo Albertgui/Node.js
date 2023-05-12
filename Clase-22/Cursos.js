@@ -20,7 +20,21 @@ let infoCursos = {
             lenguaje: 'C++',
             vistas: 8451,
             nivel: 'Intermedio'
-        }
+        },
+        {
+            id: 4,
+            titulo: 'Aprende Python',
+            lenguaje: 'Python',
+            vistas: 8431,
+            nivel: 'Intermedio'
+        },
+        {
+            id: 5,
+            titulo: 'Aprende Python',
+            lenguaje: 'Python',
+            vistas: 2674,
+            nivel: 'Avanzado'
+        },
     ],
     matematicas: [
         {
